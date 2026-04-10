@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.whl
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Machine Learning
+model.pkl
+*.h5
+*.hdf5
+*.sav
+*.csv
+*.json
+
+# Virtual Environment
+venv/
+env/
+.env
